@@ -1,4 +1,4 @@
-# GoogleDocs-Clone
+# Docit
 
 ## This is a real-time collaborative document editing application inspired by Google Docs. It's built using Next.js for the frontend, Go for the backend, and operational transform for handling real-time collaboration.
 
